@@ -1,6 +1,8 @@
 # Quantum Computing in Practice with Qiskit and IBM Quantum Experience
 This is the code repository for Quantum Computing in Practice with Qiskit and IBM Quantum Experience, published by Packt.
 
+![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u3_animated_qubit.gif)
+
 Practical recipes for quantum computer coding at the gate and algorithm level with Python
 
 -----
@@ -14,7 +16,7 @@ This book covers the following exciting features: Visualize a qubit in Python an
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838828443) today!
 
-
+![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u2_animated_qsphere.gif)
 -----
 
 ## Instructions and Navigations
@@ -22,6 +24,6 @@ All of the code is organized into folders, by the number of the Chapters.
 
 This book is for developers, data scientists, machine learning researchers, or quantum computing enthusiasts who want to understand how to use IBM Q Experience and Qiskit to implement quantum solutions and gain practical quantum computing experience. Python programming experience is a must to grasp the concepts covered in the book more effectively. Basic knowledge of quantum computing will also be beneficial.
 
-
+![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u2_animated_qubit.gif)
 
 
