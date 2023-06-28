@@ -1,5 +1,5 @@
 # Quantum Computing in Practice with Qiskit and IBM Quantum Experience
-This is the code repository for Quantum Computing in Practice with Qiskit and IBM Quantum Experience, published by Packt.
+
 
 ![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u3_animated_qubit.gif)
 
