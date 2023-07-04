@@ -1,11 +1,10 @@
 [←←Back to Homepage](https://monitsharma.github.io/)
 
-# Quantum Computing in Practice with Qiskit and IBM Quantum Experience
+# Quantum Computing in Practice with Qiskit
 
 
-![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u3_animated_qubit.gif)
 
-Practical recipes for quantum computer coding at the gate and algorithm level with Python
+Get started with Quantum Computing using IBMs Qiskit
 
 -----
 
@@ -18,7 +17,7 @@ Practical recipes for quantum computer coding at the gate and algorithm level wi
 | 2             | Complex Arithmetic    |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/ComplexArithmetic.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 | 3             |  A very basic intro to Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Linear%20Algebra%20Background.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 | 4             | Atoms of Computation  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
-| 5             | Identifying Backends| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Chapter%205/Chapter_5.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 5             | Representing Qubit States | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Represenitng_Qubit_States.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 | 6             | Quantum Gates UI| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Chapter%206/Chapter_6.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 | 6             | Quantum Gates UI| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Chapter%206/Chapter_6.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
