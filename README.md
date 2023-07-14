@@ -15,7 +15,7 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 
 ### Prerequisites
 
-Learn about the software used to write the Qiskit textbook (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
+Learn about the software used to write the Qiskit (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
 
 | Serial Number | Title                                     | Links     | Medium                                                                                |
 | ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
