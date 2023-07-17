@@ -9,6 +9,15 @@ Welcome to the "Learn Quantum Computing with Qiskit" repository! This repository
 Qiskit is an open-source framework developed by IBM for programming quantum computers. It provides a rich set of tools, libraries, and resources to facilitate quantum computation research and education. With Qiskit, you can learn, simulate, and execute quantum circuits on real quantum hardware devices or simulators.
 
 
+## Table
+
+
+- [Prerequisites](#prerequisites)
+- [Quantum States and Qubits](#quantum-states-and-qubits)
+- [Multiple Qubits and Entanglement](#multiple-qubits-and-entanglement)
+
+
+
 
 ## Content
 
