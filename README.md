@@ -63,7 +63,8 @@ With the basics down, this chapter explores the consequences of these new quantu
 
 | Serial Number | Title                                     | Links     | Medium                                                                                |
 | ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
-| 1             | TBA  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 1             |Multiple Qubits and Entanglement  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Multiple_Qubits_and_Entanglement.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 2             |Phase Kickback  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Multiple_Qubits_and_Entanglement.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
