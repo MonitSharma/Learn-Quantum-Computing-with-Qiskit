@@ -104,7 +104,7 @@ In this chapter, we use quantum effects to build powerful algorithms, starting f
 | Serial Number | Title                                     | Links     | Medium                                                                                |
 | ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
 | 1             | Quantum Circuits  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Quantum_Circuits.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-quantum-circuit-8f07571a23f6) |
-| 2             | Deutsch Jozsa Algorithm  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Quantum_Circuits.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 2             | Deutsch Jozsa Algorithm  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Deutsch_Jozsa_Algorithm.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-deutsch-jozsa-algorithm-3f9bedee8f9d) |
 
 
 
