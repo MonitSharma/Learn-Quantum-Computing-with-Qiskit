@@ -24,6 +24,7 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 
 
 ### Prerequisites
+![](https://qiskit.org/images/learn/course/prerequisites/prerequisites.png)
 
 Learn about the software used to write the Qiskit (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
 
@@ -40,6 +41,8 @@ Learn about the software used to write the Qiskit (Python and Jupyter Notebooks)
 
 ### Quantum States and Qubits
 
+![](https://qiskit.org/images/learn/course/quantum-states-and-qubits/bloch-sphere.png)
+
 This chapter introduces the computing concepts that we'll explore in later chapters, then introduces basic quantum concepts.
 
 
@@ -55,6 +58,8 @@ This chapter introduces the computing concepts that we'll explore in later chapt
 
 
 ### Multiple Qubits and Entanglement
+![](https://qiskit.org/images/learn/course/multiple-qubits-and-entanglement/multiple-qubits-and-entanglement.png)
+
 
 With the basics down, this chapter explores the consequences of these new quantum effects, and sets us up with tools to understand quantum algorithms.
 
@@ -78,6 +83,8 @@ With the basics down, this chapter explores the consequences of these new quantu
 
 
 ### Quantum Protocols and Quantum Algorithms
+
+![](https://qiskit.org/images/learn/course/quantum-protocols-and-quantum-algorithms/quantum-protocols-and-quantum-algorithms.png)
 
 In this chapter, we use quantum effects to build powerful algorithms, starting from simple proof-of-concept algorithms, through to Shor's famous factoring algorithm (and beyond).
 
