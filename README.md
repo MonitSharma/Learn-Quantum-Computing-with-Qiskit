@@ -5,11 +5,11 @@
 
 Welcome to the "Learn Quantum Computing with Qiskit" repository! This repository aims to provide a comprehensive learning resource for quantum computing using the Qiskit framework. It includes Jupyter notebooks covering a wide range of topics, from the basics of quantum computing to advanced concepts, all following the structure and content of the Qiskit Textbook.
 
-## About Qiskit
+# About Qiskit
 Qiskit is an open-source framework developed by IBM for programming quantum computers. It provides a rich set of tools, libraries, and resources to facilitate quantum computation research and education. With Qiskit, you can learn, simulate, and execute quantum circuits on real quantum hardware devices or simulators.
 
 
-## Table
+# Table
 
 
 - [Prerequisites](#prerequisites)
@@ -20,10 +20,12 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 
 
 
-## Content
+# Content
 
 
-### Prerequisites
+## Prerequisites
+
+This is a comprehensive guide for setting up your environment on your personal computer for working with Qiskit Textbook. This will help you reproduce the results as you see them on the textbook website. The Qiskit Textbook is written in Jupyter Notebooks.
 ![](https://qiskit.org/images/learn/course/prerequisites/prerequisites.png)
 
 Learn about the software used to write the Qiskit (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
@@ -39,7 +41,9 @@ Learn about the software used to write the Qiskit (Python and Jupyter Notebooks)
 
 
 
-### Quantum States and Qubits
+## Quantum States and Qubits
+
+If you think quantum mechanics sounds challenging, you’re not alone. Our intuitions come from day-to-day experiences, and so are better at understanding the behavior of balls and bananas than atoms or electrons. Though quantum objects can seem random and chaotic at first, they just follow a different set of rules. Once we know what those rules are, we can use them to create new and powerful technology. Quantum computing will be the most revolutionary example of this.
 
 ![](https://qiskit.org/images/learn/course/quantum-states-and-qubits/bloch-sphere.png)
 
@@ -57,7 +61,10 @@ This chapter introduces the computing concepts that we'll explore in later chapt
 
 
 
-### Multiple Qubits and Entanglement
+## Multiple Qubits and Entanglement
+
+We've seen some interesting effects with isolated qubits and single qubit gates, but the true power of quantum computing comes from interactions between qubits. In this section we will introduce multiple qubit gates and explore the interesting behaviours of multi-qubit systems.
+
 ![](https://qiskit.org/images/learn/course/multiple-qubits-and-entanglement/multiple-qubits-and-entanglement.png)
 
 
@@ -82,7 +89,9 @@ With the basics down, this chapter explores the consequences of these new quantu
 
 
 
-### Quantum Protocols and Quantum Algorithms
+## Quantum Protocols and Quantum Algorithms
+
+So far, we've seen various quantum gates and operations, and we've explored some interesting properties of these gates. Each of these pages shows how we can combine quantum operations into a quantum algorithm that outperforms their classical counterpart. As a bonus, some of these algorithms are actually useful too!
 
 ![](https://qiskit.org/images/learn/course/quantum-protocols-and-quantum-algorithms/quantum-protocols-and-quantum-algorithms.png)
 
@@ -98,7 +107,7 @@ In this chapter, we use quantum effects to build powerful algorithms, starting f
 
 
 
-### Investigating Quantum Hardware Using Microwave Pulses
+## Investigating Quantum Hardware Using Microwave Pulses
 
 In this chapter, we get a level closer to the real quantum machines. Learn about the physics of these devices, and how to program them at the level of microwave pulses.
 
@@ -114,7 +123,7 @@ In this chapter, we get a level closer to the real quantum machines. Learn about
 
 
 
-### Quantum Algorithms for Applications
+## Quantum Algorithms for Applications
 
 
 If algorithms are the solution, then what is the problem? In this chapter, we look at how we can take general algorithms and apply them to more specific situations.
@@ -130,7 +139,7 @@ If algorithms are the solution, then what is the problem? In this chapter, we lo
 
 
 
-### Investigating Quantum Hardware Using Quantum Circuits
+## Investigating Quantum Hardware Using Quantum Circuits
 
 All circuit-based quantum devices share some similar characteristics and challenges. In this chapter, we explore how quantum circuits perform on modern quantum computers, and ways to improve performance.
 
