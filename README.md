@@ -15,6 +15,7 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 - [Prerequisites](#prerequisites)
 - [Quantum States and Qubits](#quantum-states-and-qubits)
 - [Multiple Qubits and Entanglement](#multiple-qubits-and-entanglement)
+- [Quantum Protocols and Quantum Algorithms](#quantum-protocols-and-quantum-algorithms)
 
 
 
@@ -67,6 +68,7 @@ With the basics down, this chapter explores the consequences of these new quantu
 | 2             |Phase Kickback  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Phase_Kickback.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-phase-kickback-d79ac667202d) |
 | 3             |Basic Circuit Identities  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Basic_Circuit_Identities.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-basic-circuit-identities-9cfc1232c9ad) |
 | 4             |Proving Universality  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Proving_Universality.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-proving-universality-4a41b9591b76) |
+| 5             |Classical Computation on a Quantum Computer  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Classical_Computation_on_a_Quantum_Computer.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-classical-computation-on-a-quantum-computer-ba8f724646a) |
 
 
 
